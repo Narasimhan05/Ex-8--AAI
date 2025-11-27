@@ -1,6 +1,7 @@
  <H3>ENTER YOUR NAME: THARUN V K </H3>
 <H3>ENTER YOUR REGISTER NO: 212223230231 </H3>
 <H3>EX NO: 8 </H3>
+<H3>DATE : 05/11/2025</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
